@@ -1,15 +1,18 @@
-15
+16
 |||
-Mensagem enviada 13/02/2018
-ATENÇÃO !!! ==  ATENÇÃO !!!
+ATENÇÃO !!! ==  ATENÇÃO !!! == ATENÇÃO !!! == ( Mensagem enviada 13/02/2018 )
+====================================================================================
 ## Para o cliente que usa a lista de TV paga. ##
 ====================================================================================
-1. Se interessado parar pela loja, coloque sua lista no seu telefoneserá grátis. Com
+1. Se interessado parar pela loja, coloque sua lista no seu telefone será grátis. Com
 a lista no seu telefone você pode sempre verificar se o seu serviço está funcionando, 
 demorará de 10 a 15 minutos para instalar a lista. Se você baixar o aplicativo IPTV 
 da Google Play Store para o seu telefone, demora de 3 a 5 minutos para instalar a lista.
 =======================================================================================
 ## Para usuários de Kodi em PC e Notebook Somente ##
-2. Há uma nova atualização gratuita do Kodi. A nova atualização leva 30 a 45 minutos. 
+======================================================================================
+1. Há uma nova atualização gratuita do Kodi. A nova atualização leva 30 a 45 minutos. 
 Atualização para PC e Notebook Somente.
+======================================================================================
+======================================================================================
 ======================================================================================
